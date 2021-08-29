@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Install Axios
+
+npm install axios
+
+### Pagination
+
+npm install bootstrap-vue bootstrap
